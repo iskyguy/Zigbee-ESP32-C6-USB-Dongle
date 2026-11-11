@@ -1,0 +1,5 @@
+ESP32-C6-MINI-1U.STEP
+Source: https://github.com/espressif/kicad-libraries (3dmodels/espressif.3dshapes)
+Copyright Espressif Systems. Licensed under CC-BY-SA 4.0 with the KiCad library
+exception (using the model in a design does not make the design CC-BY-SA).
+See https://github.com/espressif/kicad-libraries/blob/main/LICENSE.md

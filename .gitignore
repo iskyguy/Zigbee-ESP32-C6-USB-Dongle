@@ -1,0 +1,12 @@
+# KiCad local, per-machine and generated files
+*.kicad_prl
+*.lck
+*.bak
+*-backups/
+.history/
+_autosave-*
+fp-info-cache
+~*
+
+# Python
+__pycache__/
