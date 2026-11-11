@@ -10577,6 +10577,19 @@
 			(justify mirror)
 		)
 	)
+	(gr_text "iskyguy\nV1.0 - 20261111\n"
+		(at 175.65 112.15 0)
+		(layer "B.SilkS")
+		(uuid "0d01f485-2faf-4c67-94c0-bd78771913ef")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "I2C"
 		(at 153.225 94.3 0)
 		(layer "B.SilkS")
